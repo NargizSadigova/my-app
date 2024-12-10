@@ -38,12 +38,12 @@
 }
 .menu{
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
 
 a{
   text-decoration: none;
   color: black;
   font-weight: 700;
-  font-size: 25px;
+  font-size: 20px;
 }
