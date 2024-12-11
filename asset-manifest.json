@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.07e4af94.css",
-    "main.js": "/my-app/static/js/main.a9e02fad.js",
-    "index.html": "/my-app/index.html",
-    "main.07e4af94.css.map": "/my-app/static/css/main.07e4af94.css.map",
-    "main.a9e02fad.js.map": "/my-app/static/js/main.a9e02fad.js.map"
+    "main.css": "/Timer/static/css/main.07e4af94.css",
+    "main.js": "/Timer/static/js/main.a9e02fad.js",
+    "index.html": "/Timer/index.html",
+    "main.07e4af94.css.map": "/Timer/static/css/main.07e4af94.css.map",
+    "main.a9e02fad.js.map": "/Timer/static/js/main.a9e02fad.js.map"
   },
   "entrypoints": [
     "static/css/main.07e4af94.css",
